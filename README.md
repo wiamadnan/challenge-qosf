@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wiamadnan
 - 👀 I’m interested in Quantum computing
 - 🌱 I’m currently learning Quantum Machine Learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wiamadnan20@gmail.com
 
 <!---
